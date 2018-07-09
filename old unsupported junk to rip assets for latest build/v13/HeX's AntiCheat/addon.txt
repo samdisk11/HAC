@@ -3,9 +3,9 @@
 	"name"				"HeX's Anti-Cheat"
 	"version"			"107/108, but now i just call it HAC"
 	"up_date"			""
-	"author_name"		"-=[UH]=- General HeX | Forked by thexkey"
-	"author_email"		""
-	"author_url"		""
+	"author_name"			"-=[UH]=- General HeX | Forked by Samdisk11 (thexkey)"
+	"author_email"			""
+	"author_url"			""
 	"info"				"A good attempt at something impossible"
 	"override"			"0"
 }
